@@ -215,12 +215,3 @@ node index.js
 Feel free to contribute to this project by submitting **pull requests** or reporting issues.  
 
 ---
-
-## 💡 License
-This project is licensed under the **MIT License**.  
-
----
-
-## 📚 GitHub Repository
-You can access the complete source code for this project on GitHub:  
-[AI-Semantic-Search-Engine](https://github.com/DheerajKumarMamidi/AI-Semantic-Search-Engine)
