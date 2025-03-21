@@ -37,8 +37,8 @@ Before running the project, ensure you have the following installed:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
-cd <YOUR_PROJECT_DIRECTORY>
+git clone https://github.com/DheerajKumarMamidi/AI-Semantic-Search-Engine
+cd AI-Semantic-Search-Engine
 ```
 
 ### 2️⃣ Install dependencies
